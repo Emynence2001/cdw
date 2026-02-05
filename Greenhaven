@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="greenhavencss">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accueil</title>
+</head>
+<body>
+    <h1 class="title">Mon site</h1>
+        <div>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="Greenhaven">Accueil</a></li>
+                    <li><a href="cours1.html">Cours 1</a></li>
+                    <li><a href="cours2.html">Cours 2</a></li>
+                    <li><s><a href="#">Cours 3</a></s></li>
+                    <li><a href="cours4.html">Cours 4</a></li>
+                </ul>
+            </nav>
+        </div>
+<main>
+<p class="hugeletter">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis, nihil? <br>
+    Fuga labore ex sequi earum deleniti corporis minus doloribus, quaerat ullam <br>
+     ad aspernatur numquam voluptatum voluptatem, itaque blanditiis dolorum rem.</p>
+</main>
+</body>
+</html>
